@@ -1,0 +1,511 @@
+.first-nav{
+    display: flex;
+    justify-content: center;
+    background-color: #f5f5f5;
+    height: 62px;
+    border-bottom: #dedede;
+    box-shadow: 2px 2px  rgba(105, 105, 105, 0.336);
+}
+.second-nav{
+    background-color: white ;
+    border-bottom: #9b9898;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: rgb(92, 90, 90) ;
+}
+.ab{
+    padding-top: 15px;
+}
+.ef{
+    padding-top: 15px;
+}
+.gh{
+    padding-top: 15px;
+}
+.kl{
+    padding-top: 15px;
+}
+
+ .one:hover{
+     transform: translateY(3px);
+     transition: 0s ease;
+ }
+ .two:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.six{
+    color: whitesmoke;
+    border: bottom left radius 20px ;
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+    height: 90px;
+    background-color: rgb(173, 171, 171);
+    justify-content: center;
+    align-items: center;
+    border-bottom: 7px solid rgb(173, 171, 171);
+}
+.seven{
+    display: flex;
+    width: 120px;
+    height: 90px;
+    background-color: transparent;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 7px solid #E3350D;
+}
+.seven:hover{
+    background-color: #E3350D;
+    color: whitesmoke;
+}
+.eight{
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+    height: 90px;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 7px solid #ee6b2f;
+}
+.eight:hover{
+    background-color: #ee6b2f;
+    color: whitesmoke;
+}
+.nine{
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    width: 120px;
+    height: 90px;
+    background-color: transparent;
+    justify-content: center;
+    border-bottom: 7px solid #e6bc2f ; 
+}
+.nine:hover{
+    background-color: #e6bc2f;
+    color: whitesmoke;
+}
+.ten{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    height: 90px;
+    background-color: transparent;
+    justify-content: center;
+    border-bottom: 7px solid  #4dad5b ; 
+}
+.ten:hover{
+    background-color: #4dad5b;
+    color: whitesmoke;
+}
+.eleven{
+    width: 120px;
+    flex-direction: column;
+    height: 90px;
+    align-items: center;
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    border-bottom: 7px solid  #30a7d7; 
+}
+.eleven:hover{
+    background-color: #30a7d7;
+    color: whitesmoke;
+}
+.twelve{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    height: 90px;
+    background-color: transparent;
+    justify-content: center;
+    border-bottom: 7px solid  #1b53ba; 
+}
+.twelve:hover{
+    background-color: #1b53ba;
+    color: whitesmoke;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 150px solid rgb(49, 49, 49);
+    border-right: 150px solid rgb(49, 49, 49);
+    flex-wrap: wrap;
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 150px solid rgb(49, 49, 49);
+    border-right: 150px solid rgb(49, 49, 49);
+    flex-wrap: wrap;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 150px solid rgb(49, 49, 49);
+    border-right: 150px solid rgb(49, 49, 49);
+    flex-wrap: wrap;
+}
+.main3{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 150px solid rgb(49, 49, 49);
+    border-right: 150px solid rgb(49, 49, 49);
+    flex-wrap: wrap;
+} 
+.mainp1:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text1{
+    border-radius: 10px;
+    background-color: rgb(202, 108, 124);
+    width: 570px;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text1:hover{
+    background-color: rgb(207, 51, 103);
+}
+.text2{
+    border-radius: 10px;
+    background-color: rgb(52, 125, 209);
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text2:hover{
+    background-color: rgb(17, 94, 129);
+}
+.mainp2:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text3{
+    border-radius: 10px;
+    background-color: rgb(187, 169, 12);
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text3:hover{
+    background-color: rgb(160, 137, 8);
+}
+.mainp3:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text4{
+    border-radius: 10px;
+    background-color: rgb(221, 165, 101);
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text4:hover{
+    background-color: rgb(180, 138, 98);
+}
+.mainp4:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text5{
+    border-radius: 10px;
+    background-color: rgb(87, 158, 54);
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text5:hover{
+    background-color: rgb(69, 126, 42);
+}
+.mainp5:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.ss{
+    display: flex;
+    justify-content: center;
+    border-left: 150px solid rgb(49, 49, 49);
+    border-right: 150px solid rgb(49, 49, 49);
+}
+.text7{
+    border-radius: 10px;
+    background-color: rgb(124, 99, 61);
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text7:hover{
+    background-color: rgb(80, 65, 42);
+}
+.mainp7:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text8{
+    border-radius: 10px;
+    background-color: rgb(87, 158, 54);
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text8:hover{
+    background-color: rgb(69, 126, 42);
+}
+.mainp8:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text9{
+    border-radius: 10px;
+    background-color: rgb(255, 79, 217);
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text9:hover{
+    background-color: rgb(150, 3, 113);
+}
+.mainp9:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text10{
+    border-radius: 10px;
+    background-color: rgb(161, 63, 218);
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text10:hover{
+    background-color: rgb(145, 17, 184);
+}
+.mainp10:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text11{
+    border-radius: 10px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text11:hover{
+    background-color: rgb(3, 3, 167);
+}
+.mainp11:hover{
+
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.text12{
+    border-radius: 10px;
+    background-color: rgb(182, 139, 0);
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+.text12:hover{
+    background-color: rgb(139, 110, 13);
+}
+.mainp12:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.abc{
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: rgb(187, 4, 65);
+}
+p{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.def{
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: rgb(199, 191, 191);
+}
+.ghi{
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: rgb(49, 36, 18);
+}
+.jkl{
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.mno{
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.pqr{
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.stu{
+    font-size: 15px;
+}
+.vwx{
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+body{
+    background-image: url(./wallpaper.png);
+    background-repeat: repeat;
+}
+.yz{
+    font-size: 30px;
+    color: grey;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text13{
+    border-radius: 10px;
+    background-color: orange;
+    color: aliceblue;
+    font-size: 15px;
+    /* height: 215px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text13:hover{
+    background-color: rgb(177, 116, 3);
+}
+.mainp13:hover{
+    transform: translateY(3px);
+    transition: 0s ease;
+}
+.main4{
+    display: flex;
+    justify-content: center;
+    background-color: #1f1f1f;
+}
+.last1{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h6{
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.a{
+    color: #616161;
+}
+.a:hover{
+    color: rgb(253, 253, 253);
+}
+.b{
+    color: #616161;
+}
+.b:hover{
+    color: rgb(253, 253, 253);
+}
+.c{
+    color: #616161;
+}
+.c:hover{
+    color: rgb(253, 253, 253);
+}
+.d{
+    color: #616161;
+}
+.d:hover{
+    color: rgb(253, 253, 253);
+}
+.e{
+    color: #616161;
+}
+.e:hover{
+    color: rgb(253, 253, 253);
+}
+.f{
+    color: #616161;
+}
+.f:hover{
+    color: rgb(253, 253, 253);
+}
+.cenetr-img{
+    display: none;
+}
+@media only screen and (max-width:1200px){
+    .for-responsive{
+        width: 100% !important;
+        /* margin-bottom: 50px; */
+    }
+    .ss{
+        display: none;
+    }
+    .cenetr-img{
+        display: block;
+    }
+    .uni-padding{
+        padding: 20px;
+    }
+    .main,.main1,.main2,.main3{
+        border: none;
+    }
+    br{
+        display: none;
+    }
+    .yz{
+        text-align: center;
+    }
+    nav{
+        width: 100%;
+    }
+    .text1{
+        width: 100%;
+    }
+}
